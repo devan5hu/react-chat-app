@@ -3,8 +3,6 @@
 This is the simple but scalable frontend of a chat application created using Reactjs that mimics the UI features of WhatsApp/TeamsChat.
 
 # Screenshots
-1. 
-   
 [![2TaVGBR.md.png](https://iili.io/2TaVGBR.md.png)](https://freeimage.host/i/2TaVGBR)
 [![2TaVM1p.md.png](https://iili.io/2TaVM1p.md.png)](https://freeimage.host/i/2TaVM1p)
 
